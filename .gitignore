@@ -1,0 +1,4 @@
+.history/
+.xmake/
+build/
+compile_commands.json
